@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/Screenshot%202024-03-19%20120902.png)
+![Screenshot](./images/product-card-screenshot.png)
 
 ### Links
 
